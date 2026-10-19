@@ -38,6 +38,7 @@ A curated list of awesome free online tools for developers, designers, and every
 | Tool | Description | Link |
 |------|-------------|------|
 | **JSON Formatter** | Beautify, minify and validate JSON with 2-space, 4-space or tab indentation. Shows key counts, array lengths and file size. | [json.aitinytools.com](https://json.aitinytools.com) |
+| **BestJSON JSON Diff** | Compare JSON structures and inspect added, removed or changed values by path in the browser. | [bestjson.com/json-diff](https://bestjson.com/json-diff) |
 | **SQL Formatter** | Format, indent, and beautify SQL queries with syntax highlighting. Supports MySQL, PostgreSQL, and standard SQL. | [sql.aitinytools.com](https://sql.aitinytools.com) |
 | **Regex Tester** | Test regular expressions with live match highlighting, capture groups, and replace mode. Supports g, i, m, s flags. | [regex.aitinytools.com](https://regex.aitinytools.com) |
 | **chmod Calculator** | Convert between symbolic (rwxr-xr-x) and numeric (755) Linux/Unix file permissions with interactive checkboxes. | [chmod.aitinytools.com](https://chmod.aitinytools.com) |
